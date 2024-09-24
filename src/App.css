@@ -1,0 +1,22 @@
+.App{
+  text-align: center;
+}
+
+.box{
+  padding:10px;
+  border: 2px solid;
+  margin:10px;
+  width: 600px;
+  height: 100px;
+}
+
+.pixel{
+  width: 100px;
+  height: 100px;
+  border: 2px solid;
+  margin: 5px;
+}
+
+.darkMode{
+  background-color: black;
+}
